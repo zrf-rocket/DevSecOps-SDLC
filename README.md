@@ -9,10 +9,18 @@
 [![](https://img.shields.io/badge/Gitee-SteveRocket-pink)](https://gitee.com/SteveRocket/)
 ![CTO Plus](https://img.shields.io/badge/微信公众号：CTO%20Plus-8A2BE2) 🥰
 
-<img src="./static/wechat.png" style="width:500px">
+## Contact
 
+![微信公众号](./static/wechat.png)  
+**< 微信公众号 >**
 
-**【代码工程系列】**
+![QQ技术交流群](./static/qq_link.png)  
+**< QQ技术交流群 >**
+
+![联系作者](./static/wechat.jpg)  
+**< 联系作者 >**
+
+## **【代码工程系列】**
 
 * [Python和Go的设计模式](https://github.com/zrf-rocket/DesignPattern)
     * GitHub：https://github.com/zrf-rocket/DesignPattern
@@ -76,6 +84,10 @@
     * GitHub：https://github.com/zrf-rocket/EDR_SOC
     * Gitee：https://gitee.com/SteveRocket/edr_soc
 
+* [安全运营中心（SOC）-信息资产采集与安全评估系统（ICSA）](https://github.com/zrf-rocket/SOC_ICSA)
+    * GitHub：https://github.com/zrf-rocket/SOC_ICSA
+    * Gitee：https://gitee.com/SteveRocket/SOC_ICSA
+
 * [DevSecOps-SDLC](https://github.com/zrf-rocket/DevSecOps-SDLC)
     * GitHub：https://github.com/zrf-rocket/DevSecOps-SDLC
     * Gitee：https://gitee.com/SteveRocket/dev-sec-ops-sdlc
@@ -84,9 +96,65 @@
     * [基于AI图像识别的工业缺陷检测应用系统（GPU&FPGA）](https://mp.weixin.qq.com/s/04qefQFg-Pg1Gcqq1vBLQQ)
     * [基于AI图像识别的智能缺陷检测系统，在钢铁行业的应用-技术方案](https://mp.weixin.qq.com/s/dSHbnuOwQZzE4CvPr1JYjg)
 
-# 开发安全运维（DevSecOps）-安全开发生命周期（SDLC）平台
+# 自动化研发安全测试运维（DevSecTestOps）一体化平台-安全开发生命周期（SDLC）平台
+
+### Dev
+
+#### 编码规范
+
+代码规范检测与自动编排
 
 
+### Sec
+
+#### 编码安全
+
+代码安全扫描
+
+1. 隐私泄露（敏感信息）扫描
+2. 安全配置 
+3. 代码漏洞
+
+**对应平台系统**
+> 安全扫描自动化检测平台
+> 黑白盒代码审计系统（SDLC）
+
+### Test
+
+#### 系统测试
+
+1. 单元测试
+2. 性能测试
+3. 接口测试
+4. UI测试
+5. 安全测试
+
+**对应平台系统**
+
+> 自动化测试平台
+
+### Ops
+
+1. 工程构建
+2. 打包
+3. 制品
+4. 发布
+5. 部署
+6. 服务组件安全配置规范扫描
+  * MySQL
+  * Redis
+  * Linux
+  * Windows
+  * K8S
+  * ......
+
+**对应平台系统**
+> 运维平台
+> 作业平台
+> 监控平台
+> CI/CD系统
+> 安全合规平台
+> 资产安全管理平台/自动化运维（CMDB）平台
 
 
 
