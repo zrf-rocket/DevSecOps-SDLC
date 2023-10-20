@@ -98,28 +98,31 @@
 
 # 自动化研发安全测试运维（DevSecTestOps）一体化平台-安全开发生命周期（SDLC）平台
 
->### Dev
+> ### Dev
 
 #### 编码规范
 
 代码规范检测与自动编排
 
+* 前端：Vue、HTML、CSS、JavaScript
+* 后端：Golang、PHP、Python、C/C++、Java
 
->### Sec
+> ### Sec
 
 #### 编码安全
 
 代码安全扫描
 
 1. 隐私泄露（敏感信息）扫描
-2. 安全配置 
+2. 安全配置
 3. 代码漏洞
 
 **对应平台系统**
+
 * **安全扫描自动化检测平台**
 * **黑白盒代码审计系统（SDLC）**
 
->### Test
+> ### Test
 
 #### 系统测试
 
@@ -133,7 +136,7 @@
 
 * **自动化测试平台**
 
->### Ops
+> ### Ops
 
 1. 工程构建
 2. 打包
@@ -141,19 +144,41 @@
 4. 发布
 5. 部署
 6. 服务组件安全配置规范扫描
-  * MySQL
-  * Redis
-  * Linux
-  * Windows
-  * K8S
-  * ......
+
+    * MySQL
+    * Redis
+    * Linux
+    * Windows
+    * K8S
+    * ......
 
 **对应平台系统**
+
 * **作业平台**
 * **监控平台**
 * **CI/CD系统**
 * **安全合规平台**
 * **资产安全管理平台/自动化运维（CMDB）平台**
+
+### 附录：开源组件
+
+#### Docker
+
+#### Kubernetes
+
+#### Jenkins
+
+#### Ansible
+
+#### SnoreQube
+
+#### Zabbix
+
+#### Prometheus
+
+#### Gitlab
+
+
 
 
 
